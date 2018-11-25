@@ -4,6 +4,7 @@ Playable Chess Game on the Python Console
 To run:
 1. Download files and put them in the same directory 
 2. Run Chess.py and change variables as suited. 
+3. (Optional) The resulting display looked the best on my Ubuntu boot, where pieces were aligned correctly. But it did not look great on Windows because the unicode characters took up more space than a single letter of ' '. It might just be an issue on my laptop though. 
 
 Features:
 1. 1v1 Player Mode 
@@ -11,6 +12,7 @@ Features:
 3. Castling 
 4. Pawn Promotion
 5. En Passant
+6. Help instructions
 
 Code:
 1. Implemented via OOP principles with 1 level of inheritance at most. 
